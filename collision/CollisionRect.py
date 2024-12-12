@@ -10,4 +10,3 @@ def isCollisionRect(arr1, arr2):
 
 print(isCollisionRect([(-3.4, 1),(9.2, 10)], [(-7.4, 0),(13.2, 12)]))
 
-
