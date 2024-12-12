@@ -10,4 +10,3 @@ def intersectionAreaRect(arr1, arr2):
     s_result = s1 * s2    
     return s_result
 
-
