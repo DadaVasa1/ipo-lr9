@@ -10,4 +10,3 @@ def intersectionAreaMultiRect(arr1):
     y2 = min(rect[1][1] for rect in arr1) 
 
     return (x2 - x1) * (y2 - y1)
-
